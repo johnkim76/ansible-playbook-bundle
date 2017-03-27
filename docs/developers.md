@@ -50,7 +50,7 @@ ex: docker run -e "OPENSHIFT_TARGET=cap.example.com:8443" -e "OPENSHIFT_USER=adm
 
 # Using ansible-container to create an ansible playbook bundle
 
-[ansible-container](github.com/ansible/ansible-container) is a project that allows you to define a containerized application in yaml, and configure the individual containers using ansible. This section will assume that you have created an ansible-container project as described in the [ansible-container documentation](http://docs.ansible.com/ansible-container/). 
+[ansible-container](https://github.com/ansible/ansible-container) is a project that allows you to define a containerized application in yaml, and configure the individual containers using ansible. This section will assume that you have created an ansible-container project as described in the [ansible-container documentation](http://docs.ansible.com/ansible-container/). 
 
 Once you have a working ansible-container project, creating an apb is trivial.
 
