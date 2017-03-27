@@ -19,7 +19,7 @@
 Name: apb
 Version: 0.1.0
 Release: 1%{?dist}
-Summary: Ansible Playbook Bundle (APB) is a lightweight application definition (meta-containers)
+Summary: Ansible Playbook Bundle (APB) is a lightweight application definition (meta-container).
 
 Group: Development/Tools
 License: GPLv2
@@ -41,7 +41,7 @@ Requires: PyYAML
 
 
 %description
-Ansible Playbook Bundle (APB) is a lightweight application definition (meta-containers).
+Ansible Playbook Bundle (APB) is a lightweight application definition (meta-container).
 APB has the following features:
 
 %prep

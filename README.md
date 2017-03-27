@@ -1,12 +1,12 @@
 # Ansible Playbook Bundle
 
-Ansible Playbook Bundle (APB) is a lightweight application definition (meta-containers). APB
+Ansible Playbook Bundle (APB) is a lightweight application definition (meta-container). APB
 has the following features:
 
 * Metadata contains list of required/optional parameters for use during deployment.
 * Leverages existing investment in Ansible Roles / Playbooks.
 * Simple directory with named “action” playbooks and metadata.
-* Developer Tooling to drive guided approach.
+* Developer tooling to drive guided approach.
 * Easily modified or extended.
 
 ## Documentation
