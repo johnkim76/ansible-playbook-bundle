@@ -1,8 +1,9 @@
 %if 0%{?fedora}
-%global use_python3 1
-%global use_python2 0
-%global pythonbin %{__python3}
-%global python_sitelib %{python3_sitelib}
+%global use_python3 0
+%global use_python2 1
+%global pythonbin %{__python2}
+%global python_sitelib %{python2_sitelib}
+%else
 %else
 %global use_python3 0
 %global use_python2 1
